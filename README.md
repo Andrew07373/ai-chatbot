@@ -1,12 +1,17 @@
-# React + Vite
+🤖 Cristian’s Portfolio Chatbot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive chatbot built with React + Vite, designed to showcase Cristian Andrei Bucur’s CV, projects, and skills in a fun, conversational way.
+The chatbot also tells jokes 🎉, remembers chat history 💬, and simulates typing for a more natural experience.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+✨ Features
+🗣️ Interactive chat with natural responses
+📄 CV & portfolio info on demand
+🌤️ Mentions projects like the Weather App and Portfolio Website
+😂 Random jokes to keep it fun
+💬 Chat history & typing indicator
+📱 Responsive and mobile-friendly design
+🛠️ Tech Stack
+⚛️ React (Vite) – fast modern frontend framework
+🎨 CSS – custom chat bubble design
+🚀 Vercel – one-click deployment
+🚀 Live Demo - ai-chatbot-5ufspn08x-andrew07373s-projects.vercel.app
